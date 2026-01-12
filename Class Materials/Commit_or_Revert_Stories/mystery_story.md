@@ -7,7 +7,7 @@ Late one night, something unusual was found in a place nobody knew well.
 Several people noticed strange events, but only one reported them immediately.
 
 ## Clues
-Objects, notes, and minor inconsistencies began to appear. Some were real, some misleading.
+Objects, notes, and minor inconsistencies began to appear. Some were real, some misleading. But the most surprising thing was the unexpected witness.
 
 ## The Suspects
 A few individuals seem connected to the events, though their roles are unclear.
