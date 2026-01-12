@@ -1,3 +1,84 @@
+# This file tells Git which files NOT to track.
+# Source files should always be tracked.
+# Generated or temporary files should not.
+
+
+
+
+############################
+# Operating system junk
+############################
+.DS_Store
+Thumbs.db
+desktop.ini
+
+############################
+# Editor & IDE files
+############################
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.bak
+
+############################
+# Python (common in data science)
+############################
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+ENV/
+
+############################
+# Jupyter Notebook noise
+############################
+.ipynb_checkpoints/
+
+############################
+# LaTeX build artifacts
+############################
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+############################
+# Compiled files (general)
+############################
+*.class
+*.o
+*.so
+*.exe
+
+############################
+# Node / web projects (optional)
+############################
+node_modules/
+dist/
+build/
+
+############################
+# Archives & temp files
+############################
+*.zip
+*.tar
+*.tar.gz
+*.tmp
+
+###############################################################################
+# Github generated:
+###############################################################################
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
