@@ -75,6 +75,42 @@ build/
 *.tar.gz
 *.tmp
 
+
+############################
+# R Studio Stuff
+############################
+
+# R session history and data
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio files
+.Rproj.user/
+*.Rproj
+
+# Workspace & temp files
+*.swp
+*.bak
+*.tmp
+*~
+
+# R CMD check
+*.Rcheck/
+
+# Caches
+*_cache/
+.cache/
+
+# Figures
+figures/
+plots/
+
+
+
+
+
+
 ###############################################################################
 # Github generated:
 ###############################################################################
@@ -286,3 +322,22 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio files
+.Rproj.user/
+
+# Temporary files
+*.Rtmp
+
+# Knitr / R Markdown cache
+*_cache/
+*_files/
+
+# OS junk
+.DS_Store
+Thumbs.db
