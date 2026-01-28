@@ -15,13 +15,8 @@ Goals for this week:
 
 #### Reflections:
 
-I was able to finish writing a syllabus for CSC 485, the final draft is pushed to the github and posted on Canvas.
-
-In terms of sleep, it was difficult to find much sleep because my son was sick and miserable. This coming week I am hoping to get some more sleep. Last week's difficulties should not interfere since he is not sick anymore. However, I am worried about the large shift in schedule I will have to adapt to since I am teaching at 8:30am on T/W/F. I will update you next week on how that goes.
-
-I was able to plan out the first few days for all of my classes. I will continue to find time to plan classes for next week. I am eager to get into a scheduled routine for which days I plan lessons, which days I grade, and so on.
+Didn't create a to-do last week, looking forward to building the rest of the model and eventually seeing how it holds up throughout the semester. 
 
 ---
 
 
-In the weekly reflection, I address how I met or didn't meet my goals last week. I give ~~excusses~~ reasons why I had trouble with meeting the goals I missed, and a plan on ideas to address it moving forward for next week. In general, the reflections don't need to be longer than a few sentences on each bullet point. Notice that for the task I completed with deliverables, I uploaded the product to github (and Canvas). You should do the same when delivering on code/images/graphs/data sets. Beware that github blocks files larger than 100MiB, so be careful uploading large data sets. You can upload larger files to your OneDrive account to share with me if needed.
